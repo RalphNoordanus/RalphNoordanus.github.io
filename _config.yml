@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    strip_title: true
   uploads:
     title: Uploads
     output: true
