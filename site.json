@@ -7,4 +7,4 @@
 "title": {{ item.title | jsonify}},
 "url": {{ item.url | jsonify}}},
 {% endfor %}
-false]
+]
