@@ -9,3 +9,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  test:
+    title: Test
+    output: true
+    strip_title: true
